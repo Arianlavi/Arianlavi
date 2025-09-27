@@ -9,14 +9,32 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Arianlavi&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arianlavi&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Arianlavi&icon=9&color=11)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arianlavi) 
+## 💰 You can help me by Donating
+If you find Repo helpful, please consider supporting the project with a donation! Your contributions help keep the project alive and improve its features.
+You can send donations to the following wallet addresses. **Always verify the address before sending!**
+
+| Cryptocurrency | Address | Network |
+|---------------|---------|---------|
+| **Bitcoin (BTC)** | `bc1q3r79a2t3tuada56zv722ykrwjadgsh79m5pthz` | Bitcoin |
+| **Ethereum (ETH) / USDT** | `0x66D74F4b7527ea9eD5BA5e2E02fa93fB7a90325d` | ERC-20 |
+| **Solana (SOL)** | `9irdHFdeWVb6cnu8HTdKAs3Lg1PD8HiQQLhVHLSAQq6X` | Solana |
+
+**Important**:
+- **Replace the above addresses with your own wallet addresses.**
+- Copy-paste addresses exactly to avoid errors.
+- Donations are non-refundable, so double-check before sending.
+- For security, use a trusted wallet like [Exodus](https://exodus.com) or [Trust Wallet](https://trustwallet.com).
+
+### Other Ways to Support
+- Give the project a ⭐ on GitHub.
+- Share PyPack with your friends or on social media.
+- Contribute by submitting pull requests or reporting issues.
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
