@@ -1,40 +1,97 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arianlvi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arianlavi) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/arianlvi)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&height=70&lines=ARIAN" alt="ARIAN LAVI" />
+  </a>
+  
+  <p align="center">
+    <i>Full Stack Developer | Blockchain Architect | Python </i> 🧠
+  </p>
+  
+  <div align="center" style="margin-top: 20px;">
+    <a href="https://instagram.com/arianlvi" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://linkedin.com/in/arianlavi" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/arianlvi" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </div>
+  
+  <hr style="border: 1px solid #00C9FF; width: 70%; margin: 30px auto;">
+  
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arianlavi&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Arianlavi&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arianlavi&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ⚔️ **TECH**
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<div align="center">
+
+### 🏗️ **Core Languages**
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  </p>
+
+### ☁️ **Cloud & DevOps**
+  <p>
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </p>
+
+### 🤖 **AI/ML Stack**
+  <p>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </p>
+
+</div>
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+
+| 📊 **Profile Stats** | 🔥 **Coding Streak** |
+|:------------------:|:-------------:|
+| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arianlavi&theme=react) | ![GitHub Streak](https://streak-stats.demolab.com?user=Arianlavi&theme=react) |
+
+</div>
+
+## 💡 **Insight of the Day**
+
+<div align="center">
+
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&animation=true&height=130&border=FF6F00&font_size=18)
+
+</div>
+
+## 🤝 **How to Support**
+
+<div align="center">
+
+⭐ **Star** my repositories to fuel my motivation  
+🔗 **Share** my profile with the dev community  
+🐛 **Contribute** to open-source projects  
+💬 **Collaborate** on innovative ideas  
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arianlavi&icon=9&color=11)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-If you find Repo helpful, please consider supporting the project with a donation! Your contributions help keep the project alive and improve its features.
-You can send donations to the following wallet addresses. **Always verify the address before sending!**
+<div align="center">
 
-| Cryptocurrency | Address | Network |
-|---------------|---------|---------|
-| **Bitcoin (BTC)** | `bc1q3r79a2t3tuada56zv722ykrwjadgsh79m5pthz` | Bitcoin |
-| **Ethereum (ETH) / USDT** | `0x66D74F4b7527ea9eD5BA5e2E02fa93fB7a90325d` | ERC-20 |
-| **Solana (SOL)** | `9irdHFdeWVb6cnu8HTdKAs3Lg1PD8HiQQLhVHLSAQq6X` | Solana |
+### 📊 **Visitor Counter**
 
-**Important**:
-- **Replace the above addresses with your own wallet addresses.**
-- Copy-paste addresses exactly to avoid errors.
-- Donations are non-refundable, so double-check before sending.
-- For security, use a trusted wallet like [Exodus](https://exodus.com) or [Trust Wallet](https://trustwallet.com).
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Arianlavi&format=true)
 
-### Other Ways to Support
-- Give the project a ⭐ on GitHub.
-- Share PyPack with your friends or on social media.
-- Contribute by submitting pull requests or reporting issues.
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**🔥 Crafted with passion, caffeine, and endless debugging sessions | 🚀 Always building, always learning**
+
+</div>
