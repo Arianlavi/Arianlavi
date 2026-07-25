@@ -5,7 +5,7 @@
   </a>
   
   <p align="center">
-    <i>Full Stack Developer | Blockchain Architect | Python </i> 🧠
+    <i>Full Stack Developer | Blockchain Architect | Python </i> 
   </p>
   
   <div align="center" style="margin-top: 20px;">
